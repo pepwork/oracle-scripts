@@ -1,2 +1,2 @@
 # oracle-scripts
-Oracle Database scripts for developers
+Oracle Database Scripts for Developers
